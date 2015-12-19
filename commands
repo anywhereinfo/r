@@ -1,0 +1,5 @@
+#command to clear environment
+rm(list=ls())
+
+#command to run source file
+source('full path to the source file')
